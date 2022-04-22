@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Skin Cancer Detection</string>
+    <string name="string1">Load Image</string>
+    <string name="string2">Check Result</string>
+</resources>
